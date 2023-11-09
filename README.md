@@ -34,3 +34,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## About the web app
+weatherwise was built using nextjs13 and tailwind it's a weather website
+
+
+
+
+https://github.com/duaal/WeatherWise/assets/40645258/e6afbc6e-f9fc-4553-b7b6-75118c340bcf
+
